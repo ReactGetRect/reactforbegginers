@@ -1,0 +1,13 @@
+.item{
+    color: purple;
+    padding: 10px;
+}
+
+.item img {
+   max-width: 40px;
+   border-radius: 30px;
+}
+
+.item span{
+    color: white;
+}
